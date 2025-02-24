@@ -179,7 +179,7 @@ section .title::after {
 
 .home {
     display: flex;
-    background: url("../images/bread_42.png") no-repeat center;
+    background: url("../images/bread_41.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
